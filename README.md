@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://github.com/Destiny-746">
-    <img width="64.8%" src="https://github-readme-stats.vercel.app/api?username=Destiny-746&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
-    <img width="64.8%" src="https://github-readme-streak-stats.herokuapp.com/?user=Destiny-746&theme=dark&hide_border=true" />
+  <a href="https://github.com/dorponbaruah">
+    <img width="64.8%" src="https://github-readme-stats.vercel.app/api?username=dorponbaruah&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
+    <img width="64.8%" src="https://github-readme-streak-stats.herokuapp.com/?user=dorponbaruah&theme=dark&hide_border=true" />
   </a>
 </p>
 
@@ -21,4 +21,4 @@
 
 <br/>
 
-[![Dorponjeet Baruah's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Destiny-746&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://github.com/Destiny-746)
+[![Dorponjeet Baruah's Activity Graph](https://activity-graph.herokuapp.com/graph?username=dorponbaruah&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://github.com/dorponbaruah)
